@@ -1,15 +1,6 @@
-# Dria Node Kurulum Rehberi:
+# Dria Node Kurulum Rehberi (Windows):
 
-Bu rehberde, GPU destekli cihazlar üzerinden Dria Node'unu Windows veya Linux sistemlerde nasıl kurabileceğinizi adım adım anlattım. Teknik bilginiz olmasa bile rahatça uygulayabilirsiniz.
-
----
-
-## Neler Yapacağız?
-
-* Windows kurulumu
-* Linux kurulumu
-* Model seçimi
-* Referans kodu girişi ve alma
+Bu rehberde, GPU destekli cihazlar üzerinden Dria Node'unu Windows' nasıl kurabileceğinizi adım adım anlattım. Teknik bilginiz olmasa bile rahatça uygulayabilirsiniz.
 
 ---
 
@@ -78,7 +69,16 @@ dkn-compute-launcher referrals
 
 ---
 
-## 5. Model Seçim Önerileri
+## 5. Discord Rolü
+
+Kurulumu tamamladıktan sonra aşağıdaki formu doldurarak Discord rolünüzü alabilirsiniz, dostlar.
+
+* Form: [https://form.typeform.com/to/Eav42hR3](https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com)
+* Discord: [https://discord.gg/dria](https://discord.gg/dria)
+
+---
+
+## 6. Model Seçim Önerileri
 
 **Sisteminiz Düşükse:**
 
@@ -95,7 +95,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## Durumunu Kontrol Et:
+## 7. Durumunu Kontrol Et:
 
 - https://dria.co/edge-ai bağlantıya git.
 - Sağ üstten login butonuna tıkla.
@@ -103,7 +103,7 @@ dkn-compute-launcher referrals
 - Durumunu bu şekilde takip edebilirsiniz.
 
 
-## Dria ayarlara Gitmek İçin:
+## 8. Dria ayarlara Gitmek İçin:
 
 - Farklı cüzdandan çalıştırmak veya modeli değiştirmek için ayarları buradan yapabilirsiniz.
 
@@ -113,7 +113,7 @@ dkn-compute-launcher settings
 
 ---
 
-## Dria'yı Silmek İçin:
+## 9. Dria'yı Silmek İçin:
 
 ```powershell
 Remove-Item -Path "$HOME\Downloads\launcher.ps1", "$HOME\AppData\Local\Temp\launcher.ps1" -Force -ErrorAction SilentlyContinue
