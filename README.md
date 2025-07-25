@@ -65,7 +65,16 @@ dkn-compute-launcher referrals
 
 ---
 
-## 5. Model Seçim Önerileri
+## 5. Discord Rolü
+
+Kurulumu tamamladıktan sonra aşağıdaki formu doldurarak Discord rolünüzü alabilirsiniz, dostlar.
+
+* Form: [https://form.typeform.com/to/Eav42hR3](https://form.typeform.com/to/Eav42hR3?typeform-source=www.google.com)
+* Discord: [https://discord.gg/dria](https://discord.gg/dria)
+
+---
+
+## 6. Model Seçim Önerileri
 
 **Sisteminiz Düşükse:**
 
@@ -82,7 +91,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## 6. Durumunu Kontrol Et:
+## 7. Durumunu Kontrol Et:
 
 * [https://dria.co/edge-ai](https://dria.co/edge-ai) bağlantısına git.
 * Sağ üstten “Login” butonuna tıkla.
@@ -93,7 +102,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## 7. Ayarlara Gitmek İçin
+## 8. Ayarlara Gitmek İçin
 
 Farklı cüzdandan çalıştırmak veya modeli değiştirmek için:
 
@@ -101,11 +110,9 @@ Farklı cüzdandan çalıştırmak veya modeli değiştirmek için:
 dkn-compute-launcher settings
 ```
 
-
-
 ---
 
-## 8. Dria'yı Tamamen Kaldırmak İçin:
+## 9. Dria'yı Tamamen Kaldırmak İçin:
 
 ```bash
 dkn-compute-launcher uninstall
