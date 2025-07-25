@@ -1,4 +1,4 @@
-# Dria Node Kurulum Rehberi (Videolu)
+# Dria Node Kurulum Rehberi:
 
 Bu rehberde, GPU destekli cihazlar üzerinden Dria Node'unu Windows veya Linux sistemlerde nasıl kurabileceğinizi adım adım anlattım. Teknik bilginiz olmasa bile rahatça uygulayabilirsiniz.
 
@@ -95,6 +95,4 @@ dkn-compute-launcher referrals
 
 ---
 
-Dria node kurulumu bu kadar! Herhangi bir sorunda yorum bırakabilir veya Telegram grubumuzdan destek alabilirsiniz.
-
-Rehberin videolu versiyonuna yukarıdan ulaşabilirsiniz.
+Rehberin videolu versiyonuna @ufukdegen X hesabımdan ulaşabilirsiniz.
