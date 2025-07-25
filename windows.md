@@ -95,4 +95,30 @@ dkn-compute-launcher referrals
 
 ---
 
+## Durumunu Kontrol Et:
+
+- https://dria.co/edge-ai bağlantıya git.
+- Sağ üstten login butonuna tıkla.
+- Private Keyi ile node çalıştırdığın cüzdan ile giriş yap.
+- Durumunu bu şekilde takip edebilirsiniz.
+
+
+## Dria ayarlara Gitmek İçin:
+
+- Farklı cüzdandan çalıştırmak veya modeli değiştirmek için ayarları buradan yapabilirsiniz.
+
+```powershell
+dkn-compute-launcher settings
+```
+
+---
+
+## Dria'yı Silmek İçin:
+
+```powershell
+Remove-Item -Path "$HOME\Downloads\launcher.ps1", "$HOME\AppData\Local\Temp\launcher.ps1" -Force -ErrorAction SilentlyContinue
+```
+
+---
+
 Rehberin videolu versiyonuna @ufukdegen X hesabımdan ulaşabilirsiniz.
