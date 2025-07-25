@@ -24,6 +24,8 @@ screen -S dria
 dkn-compute-launcher start
 ```
 
+<img width="1173" height="217" alt="image" src="https://github.com/user-attachments/assets/617d23bf-3b89-49c5-9b4e-aeac921101cb" />
+
 ---
 
 ## 2. Model Seçimi:
@@ -49,6 +51,8 @@ dkn-compute-launcher referrals
 * Referans kodunu girin:
   `vuMidURPoWZMZqHLlqW2`
 
+<img width="459" height="141" alt="Ekran görüntüsü 2025-07-25 201411" src="https://github.com/user-attachments/assets/9a9f914c-ec16-4a41-b16a-bf303fb2a4ab" />
+
 ---
 
 ## 4. Kendi Referans Kodunu Al:
@@ -62,6 +66,8 @@ dkn-compute-launcher referrals
 * İlk seçeneği (Get referral code to refer someone) seçin.
 * Ekranda çıkan kod senin referans kodundur.
 * Paylaşarak ekstra puan kazanabilirsiniz.
+
+<img width="524" height="215" alt="Ekran görüntüsü 2025-07-25 201451" src="https://github.com/user-attachments/assets/b25c621c-d920-427a-89dc-7b1fa8ec8eea" />
 
 ---
 
@@ -109,6 +115,8 @@ Farklı cüzdandan çalıştırmak veya modeli değiştirmek için:
 ```bash
 dkn-compute-launcher settings
 ```
+
+<img width="455" height="138" alt="image" src="https://github.com/user-attachments/assets/97cd7501-6e2a-4b0a-94b7-64a921671a6d" />
 
 ---
 
