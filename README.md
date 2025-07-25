@@ -4,7 +4,7 @@ Bu rehberde, GPU destekli bir cihaz (örneğin Vast.ai üzerinde RTX 3060) ile L
 
 ---
 
-## - 1. Kurulum:
+## 1. Kurulum:
 
 Terminali açın ve aşağıdaki komutları sırasıyla girin:
 
@@ -20,7 +20,7 @@ dkn-compute-launcher start
 
 ---
 
-## - 2. Model Seçimi:
+## 2. Model Seçimi:
 
 * Yön tuşlarıyla listede gezin.
 * "Ollama"yı seçip Enter'a bas.
@@ -30,7 +30,7 @@ dkn-compute-launcher start
 
 ---
 
-## - 3. Ekstra Puan İçin Referans Gir:
+## 3. Ekstra Puan İçin Referans Gir:
 
 * Ctrl + C ile node'u durdurun. (Sonra tekrar başlatacağız)
 * Aşağıdaki komutu girin:
@@ -39,13 +39,13 @@ dkn-compute-launcher start
 dkn-compute-launcher referrals
 ```
 
-* 2. seçeneği seçin, Enter'a basın.
+* İkinci seçeneği seçin, Enter'a basın.
 * Referans kodunu girin:
   `vuMidURPoWZMZqHLlqW2`
 
 ---
 
-## - 4. Kendi Referans Kodunu Al:
+## 4. Kendi Referans Kodunu Al:
 
 * Aynı komutu tekrar girin:
 
@@ -59,7 +59,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## - 5. Model Seçim Önerileri
+## 5. Model Seçim Önerileri
 
 **Sisteminiz Düşükse:**
 
@@ -76,7 +76,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## - 6. Durumunu Kontrol Et:
+## 6. Durumunu Kontrol Et:
 
 * [https://dria.co/edge-ai](https://dria.co/edge-ai) bağlantısına git.
 * Sağ üstten “Login” butonuna tıkla.
@@ -87,7 +87,7 @@ dkn-compute-launcher referrals
 
 ---
 
-## - 7. Ayarlara Gitmek İçin
+## 7. Ayarlara Gitmek İçin
 
 Farklı cüzdandan çalıştırmak veya modeli değiştirmek için:
 
@@ -99,7 +99,7 @@ dkn-compute-launcher settings
 
 ---
 
-## - 8. Dria'yı Tamamen Kaldırmak İçin:
+## 8. Dria'yı Tamamen Kaldırmak İçin:
 
 ```bash
 dkn-compute-launcher uninstall
@@ -108,4 +108,4 @@ dkn-compute-launcher uninstall
 ---
 
 **Videolu anlatım için:**
-@ufukdegen X hesabım üzerinden rehber videosuna ulaşabilirsiniz.
+@ufukdegen X hesabım üzerinden videolu rehbere ulaşabilirsiniz.
