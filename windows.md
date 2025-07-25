@@ -59,7 +59,7 @@ dkn-compute-launcher.exe start
 dkn-compute-launcher referrals
 ```
 
-- 2. seçeneği seçip Enter yap.
+- İkinci seçeneği seçip Enter yap.
 - Referans kodunu gir: vuMidURPoWZMZqHLlqW2
 
 ---
