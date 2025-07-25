@@ -9,10 +9,16 @@ Bu rehberde, GPU destekli bir cihaz (örneğin Vast.ai üzerinde RTX 3060) ile L
 Terminali açın ve aşağıdaki komutları sırasıyla girin:
 
 ```bash
+sudo apt update && sudo apt install screen -y
+```
+```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 ```bash
 curl -fsSL https://dria.co/launcher | bash
+```
+```bash
+screen -S dria
 ```
 ```bash
 dkn-compute-launcher start
