@@ -13,7 +13,7 @@ Sanal sunucunuzda veya kendi bilgisayarınızda çalıştırın, ekstra para har
 
 ---
 
-## - 1. Windows Kurulumu
+## 1. Windows Kurulumu
 
 ### PowerShell Üzerinden Kurulum
 
